@@ -4,35 +4,35 @@
 		"outerColor": [255, 255, 255]
 	},
     {
-        "name": "Humanity",
-        "leaderName": "H. sapiens",
-        "preferredVictoryType": "Neutral",
+        "name": "Emirate of Jabal Shammar",
+        "leaderName": "Muhammad bin Abdullah al Rashidi",
+        "preferredVictoryType": "Cultural",
 
-        "declaringWar": "Your army is weak, and that makes you an easy target!",
+        "declaringWar": "May Allah have mercy on you!",
         
-        "attacked": "Don't you dare mess with humanity!",
-        "defeated": "Humanity has surrendered, but one day humanity will come back!",
+        "attacked": "Don't you dare mess with Jabal Shammar!",
+        "defeated": "Inna il Ilahi wa inna ilaihi ragi",
 
-        "introduction": "Hello! We are humanity.",
-        "neutralHello": "Hello.",
+        "introduction": "Salam aleykum!",
+        "neutralHello": "Salam",
         "hateHello": "Why?",
 
         "tradeRequest": "We bestow you the honor of this trade offer.",
 
-        "innerColor": [50, 168, 82],
-        "outerColor": [11, 66, 26],
+        "innerColor": [163, 51, 61],
+        "outerColor": [225, 0, 0],
 
-        "uniqueName": "Mind Curiosity",
-        "uniques": ["[+1 Science] [in all cities]"],
+        "uniqueName": "Desert Emirate",
+        "uniques": ["[+1 Gold] from [Desert] tiles [in all cities]"],
 
         "cities": [
-            "Africa",
-            "Asia",
-            "Europe",
-            "France",
-            "Spain",
-            "Germany",
-            "China"
+            "Ha'il",
+            "Tabuk",
+            "Turayf",
+            "Badanah",
+            "Riyadh",
+            "al Jawf",
+            "al Qasseem"
         ]
     },
     {
