@@ -26,5 +26,19 @@
         "cost": 70,
         "movement": 2,
         "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"]
+    },
+    {
+        "name": "Camel Musketeer",
+        "replaces": "Musketman",
+        "unitType": "Gunpowder",
+        "uniqueTo": "Emirate of Jabal Shammar",
+        "cost": 500,
+        "range": 2,
+        "movement": 2,
+        "strength": 75,
+        "rangedStrength": 75,
+        "requiredTech": "Gunpowder",
+        "requiredResource": "Iron",
+        "promotions": ["logistics", "accuracy I"],
     }
 ]
