@@ -27,4 +27,16 @@
         "uniques": ["Unpillagable", "Unbuildable"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
     }
+    // Buildable improvments
+    {
+    "name": "Mud Fortress",
+    "uniqueTo": "Emirate of Jabal Shammar",
+    "terrainsCanbeBuiltOn": ["Desert", "Plains", "Hill"],
+    "food": 2,
+    "production": 1,
+    "Gold": 3,
+    "turnsToBuild": 4,
+    "techRequired": "Chivalry",
+    "uniques": ["Gives a defensive bonus of [60%]"]
+    }
 ]
